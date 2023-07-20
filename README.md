@@ -1,1 +1,1 @@
-# networks
+This repository contains a jupyter notebook that models the impact of contact networks and intervention strategies on the dynamics of a simulated epidemic. The Python libraries NetworkX and NDlib were used to run simulations. NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. NDlib is a Python package for simulating diffusion processes on complex networks. 
